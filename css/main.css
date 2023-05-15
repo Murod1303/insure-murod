@@ -100,11 +100,6 @@ body {
 
 /* main started  */
 
-.hero-us-section {
-    background-image: url(../images/bg.svg);
-    background-position: calc(50% - 800px) 415px;
-    background-repeat: no-repeat;
-}
 /* hero section started  */
 .hero-section {
     background-color: #2d2641;
@@ -300,7 +295,7 @@ body {
     padding-bottom: 64px;
     background-color: #fafafa;
     background-image: url(../images/bg.svg);
-    background-position: calc(50% + 585px) 200px;
+    background-position: calc(50% - 600px) 350px;
     background-repeat: no-repeat;
 }
 .top-footer-wrapper {
