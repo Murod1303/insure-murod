@@ -295,7 +295,7 @@ body {
     padding-bottom: 64px;
     background-color: #fafafa;
     background-image: url(../images/bg.svg);
-    background-position: calc(50% - 600px) 350px;
+    background-position: calc(50% - 700px) -300px;
     background-repeat: no-repeat;
 }
 .top-footer-wrapper {
